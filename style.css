@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+.main {
+    background-color: lightgray;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.main-header h1 {
+    padding-top: 50px;
+}
+
+.main-image {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 0 10px;
+    align-items: center;
+}
+
+img {
+    max-width: 95%;
+}
